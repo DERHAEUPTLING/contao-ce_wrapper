@@ -1,1 +1,1 @@
-<div class="wrapper">
+<div class="<?= $this->class ?> wrapper"<?= $this->cssID ?>>
