@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * ce_wrapper extension for Contao Open Source CMS
+ *
+ * Copyright (C) 2016 derhaeuptling
+ *
+ * @author  derhaeuptling <https://derhaeuptling.com>
+ * @author  Codefog <http://codefog.pl>
+ * @license LGPL
+ */
+
 class WrapperStopElement extends \Contao\ContentElement
 {
     /**
